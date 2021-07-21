@@ -1,4 +1,19 @@
+
+
+
 h1, h2
 {
     text-align: center;
+
+}
+
+h1
+{
+    color: red;
+    font-size: 4rem;
+}
+
+h2
+{
+    color: green;
 }
